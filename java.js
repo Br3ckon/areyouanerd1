@@ -1,14 +1,14 @@
 function answerA() {
 
     console.log("No")
-    answer.innerText = "NO"
+    answer.innerText = "You Are Not Nerd!"
 }
 
 
 function answerB() {
 
     console.log("yes")
-  answer.innerText = "YES"
+  answer.innerText = "You Are Nerd!"
 }
 
 
