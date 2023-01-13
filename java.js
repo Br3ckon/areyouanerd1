@@ -1,7 +1,7 @@
 function answerA() {
 
     console.log("No")
-    answer.innerText = "You Are Not Nerd!"
+    answer.innerText = "Not Nerd!"
 }
 
 

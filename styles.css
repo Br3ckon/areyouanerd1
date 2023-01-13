@@ -10,8 +10,8 @@ body {
 }
 
 .img {
-    width: 25vw;
-    height: 30vh;
+    width: 20vw;
+    height: 25vh;
     border-radius: 20px;
     border: 1px solid rgb(16, 115, 165);
 }
@@ -25,8 +25,8 @@ body {
 
     background-color: rgba(3, 214, 49, 0.829);
     border-radius: 18px ;
-    width: 25vw;
-    height: 30vh;
+    width: 20vw;
+    height: 25vh;
 }
 
 
@@ -34,8 +34,8 @@ body {
 
     background-color: rgba(255, 4, 4, 0.829);
     border-radius: 18px ;
-    width: 25vw;
-    height: 30vh;
+    width: 20vw;
+    height: 25vh;
 }
 .options {
     display: flex;
