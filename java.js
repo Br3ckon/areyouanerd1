@@ -8,7 +8,7 @@ function answerA() {
 function answerB() {
 
     console.log("yes")
-  answer.innerText = "You Are Nerd!"
+  answer.innerText = "You Are a Nerd!"
 }
 
 
