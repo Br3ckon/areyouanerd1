@@ -12,7 +12,7 @@ body  {
 }
 
 .img {
-    width: 20vw;
+    width: 25vw;
     height: 25vh;
     border-radius: 20px;
     border: 1px solid rgb(16, 115, 165);
@@ -28,7 +28,7 @@ body  {
 
     background-color: rgba(3, 214, 49, 0.829);
     border-radius: 18px ;
-    width: 20vw;
+    width: 25vw;
     height: 25vh;
 }
 
@@ -37,7 +37,7 @@ body  {
 
     background-color: rgba(255, 4, 4, 0.829);
     border-radius: 18px ;
-    width: 20vw;
+    width: 25vw;
     height: 25vh;
 }
 .options {
@@ -84,8 +84,10 @@ body  {
     box-shadow: 3px 5px black;
     transition: transform 1s;
     animation: ops;
-    animation-duration: 3s;
+    animation-duration: 4s;
     animation-timing-function: ease-in-out;
+    animation-delay: 0s;
+    
 
 }
 
@@ -144,7 +146,7 @@ h1 {
     
     @keyframes ops {
         0% { opacity: 0;}
-        50% {opacity: 1;transform: scale(1.05)}
-        75% {opacity: 1;}
+        60% {opacity: 1;transform: scale(1.05)}
+        85% {opacity: 1;}
         }
         
